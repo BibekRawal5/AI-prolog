@@ -1,0 +1,1 @@
+cube(X, R):- R is X * X * X.
